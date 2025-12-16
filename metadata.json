@@ -1,0 +1,47 @@
+{
+  "general": {
+    "title": [
+      {
+        "string": "Tutorial: Desenvolvimento do Jogo PONG com Arduino",
+        "language": "pt-BR"
+      }
+    ],
+    "language": [
+      "pt-BR"
+    ],
+    "description": [
+      {
+        "string": "Objeto de aprendizagem que apresenta o desenvolvimento do jogo PONG utilizando Arduino, com foco na programação embarcada. O material aborda a lógica de funcionamento do jogo, incluindo controle dos jogadores por potenciômetros, movimentação da bola, mecânica de colisões, sistema de pontuação e transição de estados. Assume-se conhecimento prévio de hardware, sendo o foco principal a estruturação do código e a lógica do jogo.",
+        "language": "pt-BR"
+      }
+    ],
+    "keyword": [
+      { "string": "Arduino", "language": "pt-BR" },
+      { "string": "Programação Embarcada", "language": "pt-BR" },
+      { "string": "PONG", "language": "pt-BR" },
+      { "string": "Jogos Digitais", "language": "pt-BR" },
+      { "string": "Microcontroladores", "language": "pt-BR" },
+      { "string": "TVout", "language": "pt-BR" },
+      { "string": "Sistemas Embarcados", "language": "pt-BR" }
+    ],
+    "coverage": [
+      {
+        "string": "Ensino de programação embarcada aplicada ao desenvolvimento de jogos digitais simples, no contexto de cursos de graduação em Computação e áreas afins.",
+        "language": "pt-BR"
+      }
+    ],
+    "structure": "hierarchical",
+    "aggregationLevel": 2
+  },
+  "rights": {
+    "cost": "no",
+    "copyrightAndOtherRestrictions": "yes",
+    "description": [
+      {
+        "string": "Este objeto de aprendizagem é distribuído sob a licença MIT, permitindo uso, cópia, modificação, fusão, publicação e distribuição, desde que os autores originais sejam devidamente creditados.",
+        "language": "pt-BR"
+      }
+    ],
+    "license": "MIT"
+  }
+}
